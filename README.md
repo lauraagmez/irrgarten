@@ -186,7 +186,7 @@ Irrgarten/
 ├── build.xml
 └── manifest.mf
 
-## Academic context
+## Academic context  
 
 The project was developed from specifications, UML class diagrams and sequence diagrams provided throughout the course.
 
