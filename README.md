@@ -14,6 +14,8 @@ Its main purpose was to apply object-oriented software development concepts to a
 
 ## Gameplay
 
+![Irrgarten gameplay](images/gameplay.png)
+
 At the beginning of the game, players are placed randomly inside a labyrinth containing walls, monsters and an exit.
 
 During each turn, a player attempts to move to an adjacent cell. If the destination contains a monster, a combat starts automatically.
