@@ -1,5 +1,6 @@
 # Irrgarten
 
+**Development period:** September – December 2025 
 **Course:** Object-Oriented Programming and Design (PDOO)  
 **University:** University of Granada  
 **Language:** Java  
